@@ -1,0 +1,3 @@
+[submodule "inventory/mycluster"]
+	path = inventory/mycluster
+	url = git@github.com:KhaimovMR/ab-kube-cluster.git
